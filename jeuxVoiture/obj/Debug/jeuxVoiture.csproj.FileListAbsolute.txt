@@ -8,3 +8,13 @@ C:\Users\F015189\source\repos\jeuxVoiture\jeuxVoiture\obj\Debug\jeuxVoiture.cspr
 C:\Users\F015189\source\repos\jeuxVoiture\jeuxVoiture\obj\Debug\jeuxVoiture.csproj.CoreCompileInputs.cache
 C:\Users\F015189\source\repos\jeuxVoiture\jeuxVoiture\obj\Debug\jeuxVoiture.exe
 C:\Users\F015189\source\repos\jeuxVoiture\jeuxVoiture\obj\Debug\jeuxVoiture.pdb
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\bin\Debug\jeuxVoiture.exe.config
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\bin\Debug\jeuxVoiture.exe
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\bin\Debug\jeuxVoiture.pdb
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.Form1.resources
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.Properties.Resources.resources
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.csproj.GenerateResource.cache
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.exe
+C:\Users\Guillaume\MacronRacing\jeuxVoiture\obj\Debug\jeuxVoiture.pdb
